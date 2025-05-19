@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-# MuslimPlus 
-=======
-# MyQuranApp
->>>>>>> 806ffa942fdc324a1b1fc6aeff827f47c6e17d99
+## 📘 Storyboard
+Berikut storyboard pengembangan aplikasi **My Quran**:
+1. Ide & Tujuan Aplikasi 📱
+2. Fitur Utama Aplikasi ✨
+3. Tahapan Pengembangan 🛠️
+4. Progres Saat Ini ✅
+5. Manajemen Proyek dengan Trello 🗂️
+6. Alur Kerja Tim 👨‍💻
+7. Kesimpulan 🏁
